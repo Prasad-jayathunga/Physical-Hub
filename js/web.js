@@ -82,4 +82,3 @@ btn.addEventListener("click", function () {
     ".comment"
   ).innerHTML = `Comment: you are <span id="comment">${status}</span>`;
 });
-/*----------------------------smooth scroll--------------------------------------*/
